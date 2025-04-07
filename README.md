@@ -25,7 +25,7 @@ This project models and analyzes the electricity planning for Zambia, focusing o
 
 ## Other Contributers
 - Paola Latini
-- Giuseppe Masterangelo (https://github.com/soniponi)
+- [Giuseppe Masterangelo](https://github.com/soniponi)
 - Virginia Fiameni
 - Andrea Giudici
 
